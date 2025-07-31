@@ -1,0 +1,15 @@
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\GradeCalc\bin\Debug\net8.0\GradeCalc.exe
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\GradeCalc\bin\Debug\net8.0\GradeCalc.deps.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\GradeCalc\bin\Debug\net8.0\GradeCalc.runtimeconfig.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\GradeCalc\bin\Debug\net8.0\GradeCalc.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\GradeCalc\bin\Debug\net8.0\GradeCalc.pdb
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\GradeCalc\obj\Debug\net8.0\GradeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\GradeCalc\obj\Debug\net8.0\GradeCalc.AssemblyInfoInputs.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\GradeCalc\obj\Debug\net8.0\GradeCalc.AssemblyInfo.cs
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\GradeCalc\obj\Debug\net8.0\GradeCalc.csproj.CoreCompileInputs.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\GradeCalc\obj\Debug\net8.0\GradeCalc.sourcelink.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\GradeCalc\obj\Debug\net8.0\GradeCalc.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\GradeCalc\obj\Debug\net8.0\refint\GradeCalc.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\GradeCalc\obj\Debug\net8.0\GradeCalc.pdb
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\GradeCalc\obj\Debug\net8.0\GradeCalc.genruntimeconfig.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\GradeCalc\obj\Debug\net8.0\ref\GradeCalc.dll
