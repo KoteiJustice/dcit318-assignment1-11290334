@@ -1,0 +1,15 @@
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TicketPriceCalc\obj\Debug\net8.0\TicketPriceCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TicketPriceCalc\obj\Debug\net8.0\TicketPriceCalc.AssemblyInfoInputs.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TicketPriceCalc\obj\Debug\net8.0\TicketPriceCalc.AssemblyInfo.cs
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TicketPriceCalc\obj\Debug\net8.0\TicketPriceCalc.csproj.CoreCompileInputs.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TicketPriceCalc\obj\Debug\net8.0\TicketPriceCalc.sourcelink.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TicketPriceCalc\bin\Debug\net8.0\TicketPriceCalc.exe
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TicketPriceCalc\bin\Debug\net8.0\TicketPriceCalc.deps.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TicketPriceCalc\bin\Debug\net8.0\TicketPriceCalc.runtimeconfig.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TicketPriceCalc\bin\Debug\net8.0\TicketPriceCalc.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TicketPriceCalc\bin\Debug\net8.0\TicketPriceCalc.pdb
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TicketPriceCalc\obj\Debug\net8.0\TicketPriceCalc.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TicketPriceCalc\obj\Debug\net8.0\refint\TicketPriceCalc.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TicketPriceCalc\obj\Debug\net8.0\TicketPriceCalc.pdb
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TicketPriceCalc\obj\Debug\net8.0\TicketPriceCalc.genruntimeconfig.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TicketPriceCalc\obj\Debug\net8.0\ref\TicketPriceCalc.dll
