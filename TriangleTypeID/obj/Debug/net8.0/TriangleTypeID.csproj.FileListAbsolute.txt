@@ -1,0 +1,15 @@
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TriangleTypeID\obj\Debug\net8.0\TriangleTypeID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TriangleTypeID\obj\Debug\net8.0\TriangleTypeID.AssemblyInfoInputs.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TriangleTypeID\obj\Debug\net8.0\TriangleTypeID.AssemblyInfo.cs
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TriangleTypeID\obj\Debug\net8.0\TriangleTypeID.csproj.CoreCompileInputs.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TriangleTypeID\obj\Debug\net8.0\TriangleTypeID.sourcelink.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TriangleTypeID\bin\Debug\net8.0\TriangleTypeID.exe
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TriangleTypeID\bin\Debug\net8.0\TriangleTypeID.deps.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TriangleTypeID\bin\Debug\net8.0\TriangleTypeID.runtimeconfig.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TriangleTypeID\bin\Debug\net8.0\TriangleTypeID.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TriangleTypeID\bin\Debug\net8.0\TriangleTypeID.pdb
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TriangleTypeID\obj\Debug\net8.0\TriangleTypeID.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TriangleTypeID\obj\Debug\net8.0\refint\TriangleTypeID.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TriangleTypeID\obj\Debug\net8.0\TriangleTypeID.pdb
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TriangleTypeID\obj\Debug\net8.0\TriangleTypeID.genruntimeconfig.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment1-11290334\TriangleTypeID\obj\Debug\net8.0\ref\TriangleTypeID.dll
